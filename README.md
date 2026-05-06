@@ -23,8 +23,3 @@ My work sits at the intersection of marketing and technology—where I combine s
 - Organic growth & lead generation
 - Technical content & product positioning
 
----
-
-## Organization
-
-https://github.com/Quokka-Labs-LLP
