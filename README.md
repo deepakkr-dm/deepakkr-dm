@@ -1,24 +1,27 @@
 # Deepak Kumar
 
-Marketing Associate at Quokka Labs  
-Focused on AI-native systems, mobile engineering ecosystems, and developer-facing technical growth.
+Digital Marketing Specialist
+Focused on SEO, content strategy, and growth marketing for tech, AI, and developer-first products.
 
 ---
 
 ## About
 
-I work at Quokka Labs, an AI-native engineering team building production-grade mobile, web, and AI systems.
+I help tech companies and AI-driven businesses grow through strategic digital marketing.
 
-My work bridges technical depth and structured positioning, translating engineering systems into discoverable technical assets.
+With experience in SEO, content marketing, and technical positioning, I specialize in turning complex products into high-converting, discoverable digital assets.
+
+My work sits at the intersection of marketing and technology—where I combine search strategy, content planning, and technical understanding to drive organic growth and lead generation.
 
 ---
 
 ## Focus Areas
 
-- AI governance & LLM security positioning  
-- Mobile performance documentation  
-- Open-source growth strategy  
-- Developer-first technical communication  
+- SEO strategy (technical + content SEO)
+- Content marketing for SaaS, AI & developer tools
+- Keyword research & search intent mapping
+- Organic growth & lead generation
+- Technical content & product positioning
 
 ---
 
